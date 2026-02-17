@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Standard Sitemap for Search Engines
+Sitemap: https://agentbuynetwork.com/sitemap.xml
+
+# AI Agent Entry Point (2026 Standard)
+Sitemap: https://agentbuynetwork.com/llms.txt
