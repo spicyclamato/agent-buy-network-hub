@@ -1,0 +1,22 @@
+# AgentBuyNetwork
+
+> The Global Registry of price-comparison information and procurement endpoints for autonomous software agents.
+
+## Core Services
+- Registry of real-time price volatility across 18 vertical markets.
+- Machine-readable procurement endpoints (JSON) for autonomous commerce.
+- Tiered intelligence data for compute, crypto, and consumer goods.
+
+## Registry Nodes (Primary)
+- [AgentBuyCompute](https://agentbuycompute.com): AI model registry and compute power pricing.
+- [AgentBuyCrypto](https://agentbuycrypto.com): High-frequency crypto and blockchain asset data.
+- [AgentBuyTickets](https://agentbuytickets.com): Secondary market logistics and ticketing.
+
+## Registry Nodes (Secondary)
+- agentbuyai.com, agentbuybtc.com, agentbuycar.com, agentbuycoffee.com, 
+- agentbuyeth.com, agentbuygift.com, agentbuygold.com, agentbuygroceries.com, 
+- agentbuyparking.com, agentbuyparts.com, agentbuyphone.com, agentbuysilver.com, 
+- agentbuytix.com, agentbuytravel.com
+
+## Contact & API Access
+Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
