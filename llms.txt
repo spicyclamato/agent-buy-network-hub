@@ -1,22 +1,21 @@
 # AgentBuyNetwork
-
 > The Global Registry of price-comparison information and procurement endpoints for autonomous software agents.
 
 ## Core Services
-- Registry of real-time price volatility across 18 vertical markets.
-- Machine-readable procurement endpoints (JSON) for autonomous commerce.
-- Tiered intelligence data for compute, crypto, and consumer goods.
+- **Real-time Price Registry**: Machine-readable volatility data for 18 vertical markets.
+- **Agentic Endpoints**: Standardized JSON procurement paths for automated commerce.
+- **Tiered Intelligence**: Deep-dive data for compute, crypto, and consumer assets.
 
-## Registry Nodes (Primary)
-- [AgentBuyCompute](https://agentbuycompute.com): AI model registry and compute power pricing.
-- [AgentBuyCrypto](https://agentbuycrypto.com): High-frequency crypto and blockchain asset data.
-- [AgentBuyTickets](https://agentbuytickets.com): Secondary market logistics and ticketing.
+## Primary Registry Nodes (High-Fidelity)
+- [AgentBuyCompute](https://agentbuycompute.com): Reference data for GPU/HPU licensing and spot compute power.
+- [AgentBuyCrypto](https://agentbuycrypto.com): High-frequency asset price feeds and blockchain state data.
+- [AgentBuyTickets](https://agentbuytickets.com): Secondary market logistics and ticketing volatility feeds.
 
-## Registry Nodes (Secondary)
-- agentbuyai.com, agentbuybtc.com, agentbuycar.com, agentbuycoffee.com, 
-- agentbuyeth.com, agentbuygift.com, agentbuygold.com, agentbuygroceries.com, 
-- agentbuyparking.com, agentbuyparts.com, agentbuyphone.com, agentbuysilver.com, 
-- agentbuytix.com, agentbuytravel.com
+## Secondary Registry Nodes
+- Includes: agentbuyai.com, agentbuybtc.com, agentbuycar.com, agentbuycoffee.com, agentbuyeth.com, agentbuygift.com, agentbuygold.com, agentbuygroceries.com, agentbuyparking.com, agentbuyparts.com, agentbuyphone.com, agentbuysilver.com, agentbuytix.com, agentbuytravel.com.
+
+## Full Network Access
+- [Full Bundle](https://agentbuynetwork.com/llms-full.txt): A single markdown file containing descriptions for all 18 nodes for comprehensive ingestion.
 
 ## Contact & API Access
-Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
+Inquiries: sunkingsllc@proton.me
