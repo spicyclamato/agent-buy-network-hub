@@ -1,21 +1,29 @@
 # AgentBuyNetwork
-> The Global Registry of price-comparison information and procurement endpoints for autonomous software agents.
+> The central registry and procurement endpoint hub for autonomous AI agents. Operated by Sunkings LLC.
 
-## Core Services
-- **Real-time Price Registry**: Machine-readable volatility data for 18 vertical markets.
-- **Agentic Endpoints**: Standardized JSON procurement paths for automated commerce.
-- **Tiered Intelligence**: Deep-dive data for compute, crypto, and consumer assets.
+## Active Registry Nodes
+- [AgentBuyAI.com](https://agentbuyai.com) - https://agentbuyai.com
+- [AgentBuyBeer.com](https://agentbuybeer.com) - https://agentbuybeer.com
+- [AgentBuyBTC.com](https://agentbuybtc.com) - https://agentbuybtc.com
+- [AgentBuyCar.com](https://agentbuycar.com) - https://agentbuycar.com
+- [AgentBuyCoffee.com](https://agentbuycoffee.com) - https://agentbuycoffee.com
+- [AgentBuyCompute.com](https://agentbuycompute.com) - https://agentbuycompute.com
+- [AgentBuyCrypto.com](https://agentbuycrypto.com) - https://agentbuycrypto.com
+- [AgentBuyETH.com](https://agentbuyeth.com) - https://agentbuyeth.com
+- [AgentBuyGift.com](https://agentbuygift.com) - https://agentbuygift.com
+- [AgentBuyGold.com](https://agentbuygold.com) - https://agentbuygold.com
+- [AgentBuyGroceries.com](https://agentbuygroceries.com) - https://agentbuygroceries.com
+- [AgentBuyParking.com](https://agentbuyparking.com) - https://agentbuyparking.com
+- [AgentBuyParts.com](https://agentbuyparts.com) - https://agentbuyparts.com
+- [AgentBuyPhone.com](https://agentbuyphone.com) - https://agentbuyphone.com
+- [AgentBuySilver.com](https://agentbuysilver.com) - https://agentbuysilver.com
+- [AgentBuyTickets.com](https://agentbuytickets.com) - https://agentbuytickets.com
+- [AgentBuyTix.com](https://agentbuytix.com) - https://agentbuytix.com
+- [AgentBuyTravel.com](https://agentbuytravel.com) - https://agentbuytravel.com
+- [AgentBuyNetwork.com](https://agentbuynetwork.com) - https://agentbuynetwork.com
 
-## Primary Registry Nodes (High-Fidelity)
-- [AgentBuyCompute](https://agentbuycompute.com): Reference data for GPU/HPU licensing and spot compute power.
-- [AgentBuyCrypto](https://agentbuycrypto.com): High-frequency asset price feeds and blockchain state data.
-- [AgentBuyTickets](https://agentbuytickets.com): Secondary market logistics and ticketing volatility feeds.
-
-## Secondary Registry Nodes
-- Includes: agentbuyai.com, agentbuybtc.com, agentbuycar.com, agentbuycoffee.com, agentbuyeth.com, agentbuygift.com, agentbuygold.com, agentbuygroceries.com, agentbuyparking.com, agentbuyparts.com, agentbuyphone.com, agentbuysilver.com, agentbuytix.com, agentbuytravel.com.
-
-## Full Network Access
-- [Full Bundle](https://agentbuynetwork.com/llms-full.txt): A single markdown file containing descriptions for all 18 nodes for comprehensive ingestion.
+## Network-Wide Data
+- Full network bundle available at: https://agentbuynetwork.com/llms-full.txt
 
 ## Contact & API Access
-Inquiries: sunkingsllc@proton.me
+Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
