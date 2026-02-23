@@ -2,25 +2,27 @@
 > The central registry and procurement endpoint hub for autonomous AI agents. Operated by Sunkings LLC.
 
 ## Active Registry Nodes
-- [AgentBuyAI.com](https://agentbuyai.com) - https://agentbuyai.com
 - [AgentBuyBeer.com](https://agentbuybeer.com) - https://agentbuybeer.com
-- [AgentBuyBTC.com](https://agentbuybtc.com) - https://agentbuybtc.com
-- [AgentBuyCar.com](https://agentbuycar.com) - https://agentbuycar.com
 - [AgentBuyCoffee.com](https://agentbuycoffee.com) - https://agentbuycoffee.com
-- [AgentBuyCompute.com](https://agentbuycompute.com) - https://agentbuycompute.com
-- [AgentBuyCrypto.com](https://agentbuycrypto.com) - https://agentbuycrypto.com
-- [AgentBuyETH.com](https://agentbuyeth.com) - https://agentbuyeth.com
 - [AgentBuyGift.com](https://agentbuygift.com) - https://agentbuygift.com
 - [AgentBuyGold.com](https://agentbuygold.com) - https://agentbuygold.com
-- [AgentBuyGroceries.com](https://agentbuygroceries.com) - https://agentbuygroceries.com
-- [AgentBuyParking.com](https://agentbuyparking.com) - https://agentbuyparking.com
-- [AgentBuyParts.com](https://agentbuyparts.com) - https://agentbuyparts.com
-- [AgentBuyPhone.com](https://agentbuyphone.com) - https://agentbuyphone.com
-- [AgentBuySilver.com](https://agentbuysilver.com) - https://agentbuysilver.com
-- [AgentBuyTickets.com](https://agentbuytickets.com) - https://agentbuytickets.com
-- [AgentBuyTix.com](https://agentbuytix.com) - https://agentbuytix.com
-- [AgentBuyTravel.com](https://agentbuytravel.com) - https://agentbuytravel.com
 - [AgentBuyNetwork.com](https://agentbuynetwork.com) - https://agentbuynetwork.com
+- [AgentBuyParts.com](https://agentbuyparts.com) - https://agentbuyparts.com
+- [AgentBuySilver.com](https://agentbuysilver.com) - https://agentbuysilver.com
+
+## Coming Soon Nodes
+- AgentBuyAI.com - https://agentbuyai.com
+- AgentBuyBTC.com - https://agentbuybtc.com
+- AgentBuyCar.com - https://agentbuycar.com
+- AgentBuyCompute.com - https://agentbuycompute.com
+- AgentBuyCrypto.com - https://agentbuycrypto.com
+- AgentBuyETH.com - https://agentbuyeth.com
+- AgentBuyGroceries.com - https://agentbuygroceries.com
+- AgentBuyParking.com - https://agentbuyparking.com
+- AgentBuyPhone.com - https://agentbuyphone.com
+- AgentBuyTickets.com - https://agentbuytickets.com
+- AgentBuyTix.com - https://agentbuytix.com
+- AgentBuyTravel.com - https://agentbuytravel.com
 
 ## Network-Wide Data
 - Full network bundle available at: https://agentbuynetwork.com/llms-full.txt
