@@ -1,0 +1,28 @@
+# AgentBuyNetwork - Full Registry Manifest
+
+> Complete manifest of vertical procurement nodes within the AgentBuyNetwork.
+
+| Vertical | Category | Status | Capability Tier | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| AgentBuyBeer | Beverages/Alcohol | Active | Discovery (Yellow Pages) | https://agentbuybeer.com |
+| AgentBuyCoffee | Beverages/Coffee | Active | Discovery (Yellow Pages) | https://agentbuycoffee.com |
+| AgentBuyGift | Retail/Curation | Active | Discovery (Yellow Pages) | https://agentbuygift.com |
+| AgentBuyGold | Commodities/Precious Metals | Active | Discovery (Yellow Pages) | https://agentbuygold.com |
+| AgentBuyNetwork | Central Registry | Active | Discovery (Yellow Pages) | https://agentbuynetwork.com |
+| AgentBuyParts | Industrial/Marine | Active | Discovery (Yellow Pages) | https://agentbuyparts.com |
+| AgentBuySilver | Commodities/Precious Metals | Active | Discovery (Yellow Pages) | https://agentbuysilver.com |
+| AgentBuyAI | Technology | Development | TBD | https://agentbuyai.com |
+| AgentBuyBTC | Finance/Crypto | Development | TBD | https://agentbuybtc.com |
+| AgentBuyCar | Automotive | Development | TBD | https://agentbuycar.com |
+| AgentBuyCompute | Infrastructure | Development | TBD | https://agentbuycompute.com |
+| AgentBuyCrypto | Finance/Crypto | Development | TBD | https://agentbuycrypto.com |
+| AgentBuyETH | Finance/Crypto | Development | TBD | https://agentbuyeth.com |
+| AgentBuyGroceries | Retail/Essential | Development | TBD | https://agentbuygroceries.com |
+| AgentBuyParking | Logistics/Urban | Development | TBD | https://agentbuyparking.com |
+| AgentBuyPhone | Telecom | Development | TBD | https://agentbuyphone.com |
+| AgentBuyTickets | Entertainment | Development | TBD | https://agentbuytickets.com |
+| AgentBuyTix | Entertainment | Development | TBD | https://agentbuytix.com |
+| AgentBuyTravel | Hospitality/Travel | Development | TBD | https://agentbuytravel.com |
+
+## Contact & API Access
+Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
