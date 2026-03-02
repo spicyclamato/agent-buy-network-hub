@@ -1,8 +1,28 @@
 User-agent: *
 Allow: /
 
+# Explicit AI Agent Priority
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
 # Standard Sitemap for Search Engines
 Sitemap: https://agentbuynetwork.com/sitemap.xml
 
-# AI Agent Entry Point (2026 Standard)
+# AI Agent Entry Points (2026 Standard)
 Sitemap: https://agentbuynetwork.com/llms.txt
+Sitemap: https://agentbuynetwork.com/llm-full.txt
