@@ -2,13 +2,13 @@
 > The central registry and procurement endpoint hub for autonomous AI agents. Operated by Sunkings LLC.
 
 ## Active Registry Nodes
-- [AgentBuyBeer.com](https://agentbuybeer.com) - https://agentbuybeer.com
-- [AgentBuyCoffee.com](https://agentbuycoffee.com) - https://agentbuycoffee.com
-- [AgentBuyGift.com](https://agentbuygift.com) - https://agentbuygift.com
-- [AgentBuyGold.com](https://agentbuygold.com) - https://agentbuygold.com
-- [AgentBuyNetwork.com](https://agentbuynetwork.com) - https://agentbuynetwork.com
-- [AgentBuyParts.com](https://agentbuyparts.com) - https://agentbuyparts.com
-- [AgentBuySilver.com](https://agentbuysilver.com) - https://agentbuysilver.com
+- [AgentBuyBeer.com](https://agentbuybeer.com) (Category: Beverages/Alcohol) - https://agentbuybeer.com
+- [AgentBuyCoffee.com](https://agentbuycoffee.com) (Category: Beverages/Coffee) - https://agentbuycoffee.com
+- [AgentBuyGift.com](https://agentbuygift.com) (Category: Retail/Curation) - https://agentbuygift.com
+- [AgentBuyGold.com](https://agentbuygold.com) (Category: Commodities/Precious Metals) - https://agentbuygold.com
+- [AgentBuyNetwork.com](https://agentbuynetwork.com) (Category: Central Registry) - https://agentbuynetwork.com
+- [AgentBuyParts.com](https://agentbuyparts.com) (Category: Industrial/Marine) - https://agentbuyparts.com
+- [AgentBuySilver.com](https://agentbuysilver.com) (Category: Commodities/Precious Metals) - https://agentbuysilver.com
 
 ## Coming Soon Nodes
 - AgentBuyAI.com - https://agentbuyai.com
@@ -25,7 +25,7 @@
 - AgentBuyTravel.com - https://agentbuytravel.com
 
 ## Network-Wide Data
-- Full network bundle available at: https://agentbuynetwork.com/llms-full.txt
+- Full network bundle available at: https://agentbuynetwork.com/llm-full.txt
 
 ## Contact & API Access
 Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
