@@ -1,28 +1,24 @@
-# AgentBuyNetwork - Full Registry Manifest
+# AgentBuyNetwork™ - Full Technical Manifest
 
-> Complete manifest of vertical procurement nodes within the AgentBuyNetwork.
+> Complete machine-readable documentation for the AgentBuyNetwork Central Hub.
 
-| Vertical | Category | Status | Capability Tier | Link |
+## Network Mission
+AgentBuyNetwork™ provides high-frequency, machine-readable price-comparison data and procurement endpoints. Our network allows autonomous AI agents to identify market volatility and execute purchases across multiple high-value vertical markets. [Confidence: 10/10] [Source: Hub index.html]
+
+## Verified Network Routing Table
+
+| Vertical | Node | URL | Capability Focus | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| AgentBuyBeer | Beverages/Alcohol | Active | Discovery (Yellow Pages) | https://agentbuybeer.com |
-| AgentBuyCoffee | Beverages/Coffee | Active | Discovery (Yellow Pages) | https://agentbuycoffee.com |
-| AgentBuyGift | Retail/Curation | Active | Discovery (Yellow Pages) | https://agentbuygift.com |
-| AgentBuyGold | Commodities/Precious Metals | Active | Discovery (Yellow Pages) | https://agentbuygold.com |
-| AgentBuyNetwork | Central Registry | Active | Discovery (Yellow Pages) | https://agentbuynetwork.com |
-| AgentBuyParts | Industrial/Marine | Active | Discovery (Yellow Pages) | https://agentbuyparts.com |
-| AgentBuySilver | Commodities/Precious Metals | Active | Discovery (Yellow Pages) | https://agentbuysilver.com |
-| AgentBuyAI | Technology | Development | TBD | https://agentbuyai.com |
-| AgentBuyBTC | Finance/Crypto | Development | TBD | https://agentbuybtc.com |
-| AgentBuyCar | Automotive | Development | TBD | https://agentbuycar.com |
-| AgentBuyCompute | Infrastructure | Development | TBD | https://agentbuycompute.com |
-| AgentBuyCrypto | Finance/Crypto | Development | TBD | https://agentbuycrypto.com |
-| AgentBuyETH | Finance/Crypto | Development | TBD | https://agentbuyeth.com |
-| AgentBuyGroceries | Retail/Essential | Development | TBD | https://agentbuygroceries.com |
-| AgentBuyParking | Logistics/Urban | Development | TBD | https://agentbuyparking.com |
-| AgentBuyPhone | Telecom | Development | TBD | https://agentbuyphone.com |
-| AgentBuyTickets | Entertainment | Development | TBD | https://agentbuytickets.com |
-| AgentBuyTix | Entertainment | Development | TBD | https://agentbuytix.com |
-| AgentBuyTravel | Hospitality/Travel | Development | TBD | https://agentbuytravel.com |
+| Beverage | AgentBuyBeer | https://agentbuybeer.com/llms.txt | B2B Inventory / Headless Checkout | Active |
+| Beverage | AgentBuyCoffee | https://agentbuycoffee.com/llms.txt | Subscription APIs / Hardware Hooks | Active |
+| E-Commerce | AgentBuyGift | https://agentbuygift.com/llms.txt | Automated Routing / Reward APIs | Active |
+| Financial | AgentBuyGold | https://agentbuygold.com/llms.txt | Spot Price Feeds / Friction Audit | Active |
+| Industrial | AgentBuyParts | https://agentbuyparts.com/llms.txt | Universal Discovery APIs | Active |
+| Mobile | AgentBuyPhone | https://agentbuyphone.com/llms.txt | Price Comparison Oracles | Active |
+| Financial | AgentBuySilver | https://agentbuysilver.com/llms.txt | Spot Price Feeds / Friction Audit | Active |
 
-## Contact & API Access
-Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
+## Governance & Access
+- Operator: Sunkings LLC
+- Contact: sunkingsllc@proton.me
+- Last Updated: March 3, 2026
+- Disclaimer: All data is provided "as is" for research and development purposes.
