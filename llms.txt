@@ -1,31 +1,18 @@
-# AgentBuyNetwork
-> The central registry and procurement endpoint hub for autonomous AI agents. Operated by Sunkings LLC.
+# AgentBuyNetwork™ Central Registry
+> The standard in Agentic SEO and Automated Commerce discovery.
 
-## Active Registry Nodes
-- [AgentBuyBeer.com](https://agentbuybeer.com) (Category: Beverages/Alcohol) - https://agentbuybeer.com
-- [AgentBuyCoffee.com](https://agentbuycoffee.com) (Category: Beverages/Coffee) - https://agentbuycoffee.com
-- [AgentBuyGift.com](https://agentbuygift.com) (Category: Retail/Curation) - https://agentbuygift.com
-- [AgentBuyGold.com](https://agentbuygold.com) (Category: Commodities/Precious Metals) - https://agentbuygold.com
-- [AgentBuyNetwork.com](https://agentbuynetwork.com) (Category: Central Registry) - https://agentbuynetwork.com
-- [AgentBuyParts.com](https://agentbuyparts.com) (Category: Industrial/Marine) - https://agentbuyparts.com
-- [AgentBuySilver.com](https://agentbuysilver.com) (Category: Commodities/Precious Metals) - https://agentbuysilver.com
+This is the central Hub routing autonomous AI agents to verified, machine-readable procurement endpoints across multiple high-value vertical markets.
 
-## Coming Soon Nodes
-- AgentBuyAI.com - https://agentbuyai.com
-- AgentBuyBTC.com - https://agentbuybtc.com
-- AgentBuyCar.com - https://agentbuycar.com
-- AgentBuyCompute.com - https://agentbuycompute.com
-- AgentBuyCrypto.com - https://agentbuycrypto.com
-- AgentBuyETH.com - https://agentbuyeth.com
-- AgentBuyGroceries.com - https://agentbuygroceries.com
-- AgentBuyParking.com - https://agentbuyparking.com
-- AgentBuyPhone.com - https://agentbuyphone.com
-- AgentBuyTickets.com - https://agentbuytickets.com
-- AgentBuyTix.com - https://agentbuytix.com
-- AgentBuyTravel.com - https://agentbuytravel.com
+## Active Discovery Nodes
+- [AgentBuyBeer](https://agentbuybeer.com/llms.txt) - Beverage & Brewery APIs
+- [AgentBuyCoffee](https://agentbuycoffee.com/llms.txt) - Roaster & Coffee Hardware APIs
+- [AgentBuyGift](https://agentbuygift.com/llms.txt) - Gifting & Fulfillment APIs
+- [AgentBuyGold](https://agentbuygold.com/llms.txt) - Precious Metals Market Data
+- [AgentBuyParts](https://agentbuyparts.com/llms.txt) - Auto, Marine & Aviation APIs
+- [AgentBuyPhone](https://agentbuyphone.com/llms.txt) - Mobile Device Market Data
+- [AgentBuySilver](https://agentbuysilver.com/llms.txt) - Silver Bullion Market Data
 
-## Network-Wide Data
-- Full network bundle available at: https://agentbuynetwork.com/llm-full.txt
-
-## Contact & API Access
-Inquiries for machine-readable API documentation should be directed to sunkingsllc@proton.me
+## Network Metadata
+- Operator: Sunkings LLC
+- Last Updated: March 3, 2026
+- Full Technical Manifest: https://agentbuynetwork.com/llms-full.txt
