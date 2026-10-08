@@ -1,24 +1,38 @@
-# AgentBuyNetwork™ - Full Technical Manifest
+# AgentBuyNetwork - Full Network Index
 
-> Complete machine-readable documentation for the AgentBuyNetwork Central Hub.
+> A growing network of independent indexes, one per category, listing sellers and data sources that publish llms.txt files, public API documentation, or agent tools. For people building AI shopping agents. Listings are free and imply no affiliation, partnership, or endorsement.
 
-## Network Mission
-AgentBuyNetwork™ provides high-frequency, machine-readable price-comparison data and procurement endpoints. Our network allows autonomous AI agents to identify market volatility and execute purchases across multiple high-value vertical markets. [Confidence: 10/10] [Source: Hub index.html]
+## About the Network
+AI agents that shop need to know which sellers they can actually read and work with. AgentBuyNetwork saves an agent, or the person building it, the step of finding and checking these sources one by one. The network is early-stage and adding categories and sources over time.
 
-## Verified Network Routing Table
+## Live Indexes (as of 2026-10-08)
 
-| Vertical | Node | URL | Capability Focus | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| Beverage | AgentBuyBeer | https://agentbuybeer.com/llms.txt | B2B Inventory / Headless Checkout | Active |
-| Beverage | AgentBuyCoffee | https://agentbuycoffee.com/llms.txt | Subscription APIs / Hardware Hooks | Active |
-| E-Commerce | AgentBuyGift | https://agentbuygift.com/llms.txt | Automated Routing / Reward APIs | Active |
-| Financial | AgentBuyGold | https://agentbuygold.com/llms.txt | Spot Price Feeds / Friction Audit | Active |
-| Industrial | AgentBuyParts | https://agentbuyparts.com/llms.txt | Universal Discovery APIs | Active |
-| Mobile | AgentBuyPhone | https://agentbuyphone.com/llms.txt | Price Comparison Oracles | Active |
-| Financial | AgentBuySilver | https://agentbuysilver.com/llms.txt | Spot Price Feeds / Friction Audit | Active |
+| Index | Category | Sources Listed | llms.txt |
+| :--- | :--- | :--- | :--- |
+| AgentBuyParts | Auto, marine, aviation, and equipment parts | 8 | https://agentbuyparts.com/llms.txt |
+| AgentBuyGift | Gift retailers, gifting platforms, gift card APIs | 13 | https://agentbuygift.com/llms.txt |
+| AgentBuyBeer | Beer data, breweries, wine and alcohol | 7 | https://agentbuybeer.com/llms.txt |
+| AgentBuyCoffee | Coffee roasters and ordering | 3 | https://agentbuycoffee.com/llms.txt |
+| AgentBuyGold | Gold price data | 2 | https://agentbuygold.com/llms.txt |
+| AgentBuySilver | Silver price data | 2 | https://agentbuysilver.com/llms.txt |
+| AgentBuyPhone | Phones and refurbished devices | 1 | https://agentbuyphone.com/llms.txt |
 
-## Governance & Access
-- Operator: Sunkings LLC
-- Contact: sunkingsllc@proton.me
-- Last Updated: March 3, 2026
-- Disclaimer: All data is provided "as is" for research and development purposes.
+Each index also publishes /llms-full.txt with a full table and summaries.
+
+## How Sources Are Listed
+* A source is listed only if it publicly offers an llms.txt file, public API documentation, or an agent tool, and it was reachable on the date shown.
+* Descriptions summarize what each company says about itself. Products, prices, and service quality are not rated, ranked, or verified.
+* Listings are free. There is no affiliation, partnership, or paid relationship with any company listed.
+* Each index shows its last-checked date and a "Not Yet Listed" section for well-known sellers without public machine-readable resources.
+
+## In Development
+Planned indexes, not yet live: AgentBuyAI, AgentBuyCompute, AgentBuyBTC, AgentBuyETH, AgentBuyCrypto, AgentBuyCar, AgentBuyParking, AgentBuyGroceries, AgentBuyTickets, AgentBuyTix, AgentBuyTravel.
+
+## Recent Updates
+* 2026-10: All seven indexes rechecked link by link. Listings now describe only what each company publishes, outdated sources were corrected or moved to "Not Yet Listed," and each index shows a last-checked date.
+
+## About AgentBuyNetwork
+* **Operator:** Sunkings LLC
+* **Contact:** agentbuynetwork@proton.me
+* **Last Updated:** 2026-10-08
+* **Disclaimer:** Information for research and AI agent development only, provided "as is." Not financial, investment, or legal advice. Company names and trademarks belong to their owners. Listing a company does not mean it endorses, partners with, or is affiliated with AgentBuyNetwork or Sunkings LLC. Verify all information independently before relying on it.
