@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AgentBuyNetwork™: The central registry of machine-readable procurement endpoints and Yellow Pages for autonomous AI agents.">
-    <title>AgentBuyNetwork™ | Central Registry for AI Procurement</title>
+    <meta name="description" content="AgentBuyNetwork: a growing network of independent indexes listing sellers and data sources that publish llms.txt files or public APIs, for people building AI shopping agents.">
+    <title>AgentBuyNetwork | Independent Indexes for AI Shopping Agents</title>
 
     <script type="application/ld+json">
     {
@@ -13,15 +13,16 @@
       "name": "AgentBuyNetwork",
       "legalName": "Sunkings LLC",
       "url": "https://agentbuynetwork.com",
-      "description": "The central registry of machine-readable procurement endpoints and Yellow Pages for autonomous AI agents.",
+      "email": "agentbuynetwork@proton.me",
+      "description": "A growing network of independent indexes listing sellers and data sources that publish llms.txt files or public APIs, for people building AI shopping agents.",
       "hasPart": [
+        { "@type": "WebSite", "name": "AgentBuyParts", "url": "https://agentbuyparts.com" },
+        { "@type": "WebSite", "name": "AgentBuyGift", "url": "https://agentbuygift.com" },
         { "@type": "WebSite", "name": "AgentBuyBeer", "url": "https://agentbuybeer.com" },
         { "@type": "WebSite", "name": "AgentBuyCoffee", "url": "https://agentbuycoffee.com" },
-        { "@type": "WebSite", "name": "AgentBuyGift", "url": "https://agentbuygift.com" },
         { "@type": "WebSite", "name": "AgentBuyGold", "url": "https://agentbuygold.com" },
-        { "@type": "WebSite", "name": "AgentBuyParts", "url": "https://agentbuyparts.com" },
-        { "@type": "WebSite", "name": "AgentBuyPhone", "url": "https://agentbuyphone.com" },
-        { "@type": "WebSite", "name": "AgentBuySilver", "url": "https://agentbuysilver.com" }
+        { "@type": "WebSite", "name": "AgentBuySilver", "url": "https://agentbuysilver.com" },
+        { "@type": "WebSite", "name": "AgentBuyPhone", "url": "https://agentbuyphone.com" }
       ]
     }
     </script>
@@ -34,6 +35,7 @@
             --link-color: #0056b3;
             --box-border: #cccccc;
             --box-bg: #f4f4f4;
+            --label-color: #888888;
         }
         @media (prefers-color-scheme: dark) {
             :root {
@@ -42,6 +44,7 @@
                 --link-color: #66b3ff;
                 --box-border: #444444;
                 --box-bg: #1e1e1e;
+                --label-color: #aaaaaa;
             }
         }
         body {
@@ -57,7 +60,7 @@
         a:hover { text-decoration: underline; }
         h1 { border-bottom: 2px solid var(--box-border); padding-bottom: 0.5rem; margin-bottom: 0.2rem; }
         h2 { font-size: 1.2rem; font-weight: normal; margin-top: 0; margin-bottom: 2rem; color: var(--text-color); opacity: 0.8; }
-        h3 { border-bottom: 1px dashed var(--box-border); padding-bottom: 0.3rem; margin-top: 2rem; }
+        h3 { border-bottom: 1px dashed var(--box-border); padding-bottom: 0.3rem; margin-top: 2.5rem; }
         .notice-box {
             border: 2px solid var(--text-color);
             background-color: var(--box-bg);
@@ -67,24 +70,12 @@
         .notice-box h3 { margin-top: 0; border: none; padding: 0; }
         ul { padding-left: 1.5rem; }
         li { margin-bottom: 0.5rem; }
+        .tag { font-size: 0.8rem; color: var(--label-color); margin-left: 8px; font-weight: normal; }
         .cta-box {
             border: 1px dashed var(--box-border);
             padding: 1.5rem;
             margin-top: 3rem;
         }
-        .btn {
-            display: inline-block;
-            margin-top: 1rem;
-            padding: 0.4rem 0.8rem;
-            background-color: var(--box-bg);
-            border: 1px solid var(--box-border);
-            color: var(--text-color);
-            font-size: 0.9rem;
-            text-decoration: none;
-            cursor: pointer;
-        }
-        .btn:hover { background-color: var(--box-border); text-decoration: none; }
-        .tag { font-size: 0.8rem; color: #888; margin-left: 8px; font-weight: normal; }
         footer {
             margin-top: 4rem;
             padding-top: 1rem;
@@ -92,73 +83,88 @@
             font-size: 0.85rem;
             opacity: 0.7;
         }
+        .disclaimer {
+            font-size: 0.85em;
+            margin-top: 2em;
+            text-align: left;
+            border-top: 1px solid var(--box-border);
+            padding-top: 1em;
+        }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>AgentBuyNetwork™</h1>
-        <h2>The Standard in Agentic SEO and Automated Commerce</h2>
+        <h1>AgentBuyNetwork</h1>
+        <h2>Independent Indexes for AI Shopping Agents</h2>
     </header>
 
     <main>
         <section id="intro">
-            <h3>Registry Services for Autonomous Agents</h3>
-            <p><strong>AgentBuyNetwork™</strong> provides high-frequency, machine-readable price-comparison data and procurement endpoints. Our network allows autonomous AI agents to identify market volatility and execute purchases across multiple high-value vertical markets.</p>
+            <p>AI agents that shop need to know which sellers they can actually read and work with. AgentBuyNetwork is a growing set of independent indexes, one per category, that list sellers and data sources publishing machine-readable resources: <code>llms.txt</code> files, public API documentation, and agent tools such as MCP servers.</p>
+            <p>Each index saves an agent, or the person building it, the step of finding and checking these sources one by one. We are early, and we are adding categories and sources as we go.</p>
         </section>
 
-        <section id="active-nodes">
-            <h3>Active Registry Nodes:</h3>
+        <section id="indexes" class="notice-box">
+            <h3>Live Indexes</h3>
             <ul>
-                <li><a href="https://agentbuybeer.com" rel="directory">AgentBuyBeer.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuycoffee.com" rel="directory">AgentBuyCoffee.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuygift.com" rel="directory">AgentBuyGift.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuygold.com" rel="directory">AgentBuyGold.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuyparts.com" rel="directory">AgentBuyParts.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuyphone.com" rel="directory">AgentBuyPhone.com</a> <span class="tag">[llms.txt available]</span></li>
-                <li><a href="https://agentbuysilver.com" rel="directory">AgentBuySilver.com</a> <span class="tag">[llms.txt available]</span></li>
+                <li><a href="https://agentbuyparts.com/">AgentBuyParts.com</a> <span class="tag">auto, marine, aviation, and equipment parts &middot; 8 sources</span></li>
+                <li><a href="https://agentbuygift.com/">AgentBuyGift.com</a> <span class="tag">gift retailers, gifting platforms, gift card APIs &middot; 13 sources</span></li>
+                <li><a href="https://agentbuybeer.com/">AgentBuyBeer.com</a> <span class="tag">beer data, breweries, wine and alcohol &middot; 7 sources</span></li>
+                <li><a href="https://agentbuycoffee.com/">AgentBuyCoffee.com</a> <span class="tag">coffee roasters and ordering &middot; 3 sources</span></li>
+                <li><a href="https://agentbuygold.com/">AgentBuyGold.com</a> <span class="tag">gold price data &middot; 2 sources</span></li>
+                <li><a href="https://agentbuysilver.com/">AgentBuySilver.com</a> <span class="tag">silver price data &middot; 2 sources</span></li>
+                <li><a href="https://agentbuyphone.com/">AgentBuyPhone.com</a> <span class="tag">phones and refurbished devices &middot; 1 source</span></li>
+            </ul>
+            <p>Every index publishes <code>/llms.txt</code> and <code>/llms-full.txt</code> for agents to read directly.</p>
+        </section>
+
+        <section id="how-we-list">
+            <h3>How We List Sources</h3>
+            <ul>
+                <li>A source is listed only if it publicly offers an llms.txt file, public API documentation, or an agent tool, and we found it reachable on the date shown.</li>
+                <li>Descriptions summarize what each company says about itself. We do not rate, rank, or verify products, prices, or service quality.</li>
+                <li>Listings are free. We have no affiliation, partnership, or paid relationship with any company listed.</li>
+                <li>Each index shows the date it was last checked, plus a "Not Yet Listed" section for well-known sellers without public machine-readable resources.</li>
             </ul>
         </section>
 
-        <section id="upcoming-nodes">
-            <h3 style="margin-top: 2.5rem;">Coming Soon:</h3>
+        <section id="in-development">
+            <h3>In Development</h3>
+            <p>Planned indexes, not yet live:</p>
             <ul>
-                <li>AgentBuyAI.com</li>
-                <li>AgentBuyBTC.com</li>
-                <li>AgentBuyCar.com</li>
-                <li>AgentBuyCompute.com</li>
-                <li>AgentBuyCrypto.com</li>
-                <li>AgentBuyETH.com</li>
+                <li>AgentBuyAI.com, AgentBuyCompute.com</li>
+                <li>AgentBuyBTC.com, AgentBuyETH.com, AgentBuyCrypto.com</li>
+                <li>AgentBuyCar.com, AgentBuyParking.com</li>
                 <li>AgentBuyGroceries.com</li>
-                <li>AgentBuyParking.com</li>
-                <li>AgentBuyTickets.com</li>
-                <li>AgentBuyTix.com</li>
-                <li>AgentBuyTravel.com</li>
+                <li>AgentBuyTickets.com, AgentBuyTix.com, AgentBuyTravel.com</li>
             </ul>
         </section>
 
-        <section id="request-access" class="cta-box">
-            <h3>Request Registry Access</h3>
-            <p>To request access to our real-time data <code>.json</code> feeds or for partnership inquiries, contact our procurement office:</p>
-            <br>
-            <p><strong>Email:</strong> <a href="mailto:sunkingsllc@proton.me">sunkingsllc@proton.me</a></p>
-            <br>
-            <a href="mailto:sunkingsllc@proton.me?subject=Request Machine-Readable API Access" class="btn">Request Machine-Readable API Access</a>
+        <section id="updates">
+            <h3>Recent Updates</h3>
+            <ul>
+                <li><strong>October 2026:</strong> All seven indexes rechecked link by link. Listings now describe only what each company publishes, outdated sources were corrected or moved to "Not Yet Listed," and each index shows a "last checked" date.</li>
+            </ul>
+        </section>
+
+        <section id="contact" class="cta-box">
+            <h3>Suggest a Source, Correction, or Category</h3>
+            <p>Know a seller that publishes an llms.txt file, API, or agent tool? Spotted something outdated? Want a category we don't cover yet? We'd like to hear from you.</p>
+            <p>Email: <a href="mailto:agentbuynetwork@proton.me">agentbuynetwork@proton.me</a></p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 <strong>Sunkings LLC</strong>. AgentBuyNetwork™ and all associated registry names are trademarks of Sunkings LLC.</p>
-        <div style="font-size: 0.85em; color: #888; margin-top: 2em; text-align: left; border-top: 1px solid #333; padding-top: 1em;">
+        <p>&copy; 2026 <strong>Sunkings LLC</strong>. AgentBuyNetwork&trade; and associated index names are trademarks of Sunkings LLC.</p>
+        <p>Last updated: October 8, 2026</p>
+
+        <div class="disclaimer">
             Disclaimer<br><br>
-            This site is part of the AgentBuyNetwork and provides informational references only for research and autonomous AI agent development purposes.<br><br>
-            We are not responsible or liable for:<br>
-            - Any third-party websites, suppliers, products, data, APIs, pricing, premiums, inventory, assay certificates, delivery, or services listed or referenced here<br>
-            - Accuracy, timeliness, completeness, or reliability of any information<br>
-            - Any transactions, integrations, executions, or outcomes by users or their AI agents<br><br>
-            All content is provided "as is" with no warranties or guarantees. You (and your agents) must DYOR (Do Your Own Research), independently verify everything, and assume all risks. We do not endorse, control, or guarantee any linked or referenced resources. Use at your own risk.<br><br>
-            Last updated: March 3, 2026
+            AgentBuyNetwork and its indexes provide information for research and AI agent development only. They are not financial, investment, or legal advice. Company names and trademarks belong to their owners, and listing a company does not mean it endorses, partners with, or is affiliated with AgentBuyNetwork or Sunkings LLC.<br><br>
+            We are not responsible for third-party websites, products, data, APIs, pricing, or any transactions made by users or their AI agents. All content is provided "as is," without warranties. Verify all information independently before relying on it.
         </div>
     </footer>
+
 </body>
 </html>
