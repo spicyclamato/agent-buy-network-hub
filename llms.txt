@@ -1,18 +1,23 @@
-# AgentBuyNetwork™ Central Registry
-> The standard in Agentic SEO and Automated Commerce discovery.
+# AgentBuyNetwork
 
-This is the central Hub routing autonomous AI agents to verified, machine-readable procurement endpoints across multiple high-value vertical markets.
+> A growing network of independent indexes, one per category, listing sellers and data sources that publish llms.txt files, public API documentation, or agent tools. For people building AI shopping agents. Listings are free and imply no affiliation, partnership, or endorsement.
 
-## Active Discovery Nodes
-- [AgentBuyBeer](https://agentbuybeer.com/llms.txt) - Beverage & Brewery APIs
-- [AgentBuyCoffee](https://agentbuycoffee.com/llms.txt) - Roaster & Coffee Hardware APIs
-- [AgentBuyGift](https://agentbuygift.com/llms.txt) - Gifting & Fulfillment APIs
-- [AgentBuyGold](https://agentbuygold.com/llms.txt) - Precious Metals Market Data
-- [AgentBuyParts](https://agentbuyparts.com/llms.txt) - Auto, Marine & Aviation APIs
-- [AgentBuyPhone](https://agentbuyphone.com/llms.txt) - Mobile Device Market Data
-- [AgentBuySilver](https://agentbuysilver.com/llms.txt) - Silver Bullion Market Data
+Each index below has its own llms.txt and llms-full.txt. A source is listed only if it publicly offers a machine-readable resource and was reachable on the date the index was last checked. Last updated: 2026-10-08.
 
-## Network Metadata
-- Operator: Sunkings LLC
-- Last Updated: March 3, 2026
-- Full Technical Manifest: https://agentbuynetwork.com/llms-full.txt
+## Live Indexes
+
+- [AgentBuyParts](https://agentbuyparts.com/llms.txt): Auto, marine, aviation, and equipment parts; 8 sources.
+- [AgentBuyGift](https://agentbuygift.com/llms.txt): Gift retailers, gifting platforms, and gift card APIs; 13 sources.
+- [AgentBuyBeer](https://agentbuybeer.com/llms.txt): Beer data, brewery tools (including an MCP server), wine and alcohol; 7 sources.
+- [AgentBuyCoffee](https://agentbuycoffee.com/llms.txt): Coffee roasters and ordering; 3 sources.
+- [AgentBuyGold](https://agentbuygold.com/llms.txt): Gold price data APIs; 2 sources.
+- [AgentBuySilver](https://agentbuysilver.com/llms.txt): Silver price data APIs; 2 sources.
+- [AgentBuyPhone](https://agentbuyphone.com/llms.txt): Phones and refurbished devices; 1 source.
+
+## Network Details
+
+- [Full network index](https://agentbuynetwork.com/llms-full.txt): Listing standards, planned indexes, and recent updates.
+
+## Optional
+
+- [Contact](mailto:agentbuynetwork@proton.me): Suggest a source, correction, or new category. Operator: Sunkings LLC.
