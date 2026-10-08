@@ -25,4 +25,4 @@ Sitemap: https://agentbuynetwork.com/sitemap.xml
 
 # AI Agent Entry Points (2026 Standard)
 Sitemap: https://agentbuynetwork.com/llms.txt
-Sitemap: https://agentbuynetwork.com/llm-full.txt
+Sitemap: https://agentbuynetwork.com/llms-full.txt
