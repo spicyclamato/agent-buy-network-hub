@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>404 - Page Not Found</title>
+    <style>
+        :root {
+            color-scheme: light dark;
+            --bg-color: #ffffff;
+            --text-color: #222222;
+            --link-color: #0056b3;
+            --box-border: #cccccc;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121212;
+                --text-color: #e0e0e0;
+                --link-color: #66b3ff;
+                --box-border: #444444;
+            }
+        }
+        body {
+            font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Courier New", monospace;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+        a { color: var(--link-color); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        h1 { border-bottom: 2px solid var(--box-border); padding-bottom: 0.5rem; }
+        li { margin-bottom: 0.5rem; }
+    </style>
+</head>
+<body>
+    <h1>404 - Page Not Found</h1>
+    <p>There is no page at this address.</p>
+    <p>Useful links on this site:</p>
+    <ul>
+        <li><a href="/">Home page</a></li>
+        <li><a href="/llms.txt">llms.txt</a> (summary for AI agents)</li>
+        <li><a href="/llms-full.txt">llms-full.txt</a> (full index)</li>
+    </ul>
+    <p>Part of <a href="https://agentbuynetwork.com/">AgentBuyNetwork</a>. Contact: <a href="mailto:agentbuynetwork@proton.me">agentbuynetwork@proton.me</a></p>
+</body>
+</html>
