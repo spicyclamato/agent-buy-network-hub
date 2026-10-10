@@ -2,11 +2,11 @@
 
 > A growing network of independent indexes, one per category, listing sellers and data sources that publish llms.txt files, public API documentation, or agent tools. For people building AI shopping agents. Listings are free and imply no affiliation, partnership, or endorsement.
 
-Each index below has its own llms.txt and llms-full.txt. A source is listed only if it publicly offers a machine-readable resource and was reachable on the date the index was last checked. Last updated: 2026-10-08.
+Each index below has its own llms.txt and llms-full.txt. A source is listed only if it publicly offers a machine-readable resource and was reachable on the date the index was last checked. Last updated: 2026-10-10.
 
 ## Live Indexes
 
-- [AgentBuyParts](https://agentbuyparts.com/llms.txt): Auto, marine, aviation, and equipment parts; 8 sources.
+- [AgentBuyParts](https://agentbuyparts.com/llms.txt): Auto, powersports, RV, marine, aviation, and equipment parts, plus vehicle fitment data (including two MCP servers); 15 sources.
 - [AgentBuyGift](https://agentbuygift.com/llms.txt): Gift retailers, gifting platforms, and gift card APIs; 13 sources.
 - [AgentBuyBeer](https://agentbuybeer.com/llms.txt): Beer data, brewery tools (including an MCP server), wine and alcohol; 7 sources.
 - [AgentBuyCoffee](https://agentbuycoffee.com/llms.txt): Coffee roasters and ordering; 3 sources.
