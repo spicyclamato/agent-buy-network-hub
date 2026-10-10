@@ -5,11 +5,11 @@
 ## About the Network
 AI agents that shop need to know which sellers they can actually read and work with. AgentBuyNetwork saves an agent, or the person building it, the step of finding and checking these sources one by one. The network is early-stage and adding categories and sources over time.
 
-## Live Indexes (as of 2026-10-08)
+## Live Indexes (as of 2026-10-10)
 
 | Index | Category | Sources Listed | llms.txt |
 | :--- | :--- | :--- | :--- |
-| AgentBuyParts | Auto, marine, aviation, and equipment parts | 8 | https://agentbuyparts.com/llms.txt |
+| AgentBuyParts | Auto, powersports, RV, marine, aviation, and equipment parts; vehicle fitment data | 15 | https://agentbuyparts.com/llms.txt |
 | AgentBuyGift | Gift retailers, gifting platforms, gift card APIs | 13 | https://agentbuygift.com/llms.txt |
 | AgentBuyBeer | Beer data, breweries, wine and alcohol | 7 | https://agentbuybeer.com/llms.txt |
 | AgentBuyCoffee | Coffee roasters and ordering | 3 | https://agentbuycoffee.com/llms.txt |
@@ -29,10 +29,11 @@ Each index also publishes /llms-full.txt with a full table and summaries.
 Planned indexes, not yet live: AgentBuyAI, AgentBuyCompute, AgentBuyBTC, AgentBuyETH, AgentBuyCrypto, AgentBuyCar, AgentBuyParking, AgentBuyGroceries, AgentBuyTickets, AgentBuyTix, AgentBuyTravel.
 
 ## Recent Updates
-* 2026-10: All seven indexes rechecked link by link. Listings now describe only what each company publishes, outdated sources were corrected or moved to "Not Yet Listed," and each index shows a last-checked date.
+* 2026-10-10: AgentBuyParts expanded from 8 to 15 sources, adding powersports and RV parts retailers and vehicle fitment data, including two MCP servers (FitsMyBoat and VehDB).
+* 2026-10-08: All seven indexes rechecked link by link. Listings now describe only what each company publishes, outdated sources were corrected or moved to "Not Yet Listed," and each index shows a last-checked date.
 
 ## About AgentBuyNetwork
 * **Operator:** Sunkings LLC
 * **Contact:** agentbuynetwork@proton.me
-* **Last Updated:** 2026-10-08
+* **Last Updated:** 2026-10-10
 * **Disclaimer:** Information for research and AI agent development only, provided "as is." Not financial, investment, or legal advice. Company names and trademarks belong to their owners. Listing a company does not mean it endorses, partners with, or is affiliated with AgentBuyNetwork or Sunkings LLC. Verify all information independently before relying on it.
