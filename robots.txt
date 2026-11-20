@@ -14,7 +14,12 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Applebot
+Allow: /
+
 User-agent: Amazonbot
 Allow: /
+
+Content-Signal: ai-train=yes, search=yes, agent=yes
 
 Sitemap: https://agentbuynetwork.com/sitemap.xml

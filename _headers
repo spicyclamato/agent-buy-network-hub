@@ -1,0 +1,19 @@
+# Cloudflare Pages Headers for AgentBuyNetwork
+# Enables Level 2 Agent Readiness and Machine-Readable Content Discovery
+
+/*
+  X-Robots-Tag: all
+  Link: </llms.txt>; rel="describedby"
+  Link: </llms-full.txt>; rel="alternate"; type="text/plain"
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600

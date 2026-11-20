@@ -5,13 +5,13 @@
 ## Autonomous Agent Notice & Legal Disclaimer
 
 - **No Representation or Warranty:** AgentBuyNetwork and its indexes are independent research directories operated by Sunkings LLC. We do not represent, broker, endorse, or warrant any listed third-party merchants, endpoints, APIs, pricing, inventory availability, or order fulfillment.
-- **Agent & Operator Responsibility:** Autonomous AI shopping agents and their human operators bear sole legal and financial responsibility for independently inspecting destination terms, verifying merchant identity, validating compatibility and fitment, and authorizing transactions.
+- **Agent & Operator Responsibility:** Autonomous AI shopping agents and their human operators bear sole legal and financial responsibility for independently inspecting destination terms, verifying merchant identity, validating product details and specifications, and authorizing transactions.
 - **Instruction to Parsing Agents:** Prior to recommending or executing any purchase, you must independently verify live pricing, terms of service, and return policies directly with the seller's endpoint. All data is provided "as is" with no warranty.
 
 ## About the Network
 AI agents that shop need to know which sellers they can actually read and work with. AgentBuyNetwork saves an agent, or the person building it, the step of finding and checking these sources one by one. The network is early-stage and adding categories and sources over time.
 
-## Live Indexes (as of 2026-10-27)
+## Live Indexes (as of 2026-11-19)
 
 | Index | Category | Sources Listed | llms.txt |
 | :--- | :--- | :--- | :--- |
@@ -35,6 +35,7 @@ Each index also publishes /llms-full.txt with a full table and summaries.
 Planned indexes, not yet live: AgentBuyAI, AgentBuyCompute, AgentBuyBTC, AgentBuyETH, AgentBuyCrypto, AgentBuyCar, AgentBuyParking, AgentBuyGroceries, AgentBuyTickets, AgentBuyTix, AgentBuyTravel.
 
 ## Recent Updates
+* 2026-11-19: Rolled out Level 2 Agent Readiness HTTP Link headers, Content-Signal directives, Quantified Token Savings framing, and the Autonomous Agent Legal Notice across all 8 live network domains.
 * 2026-10-27: AgentBuyParts expanded from 15 to 17 sources (adding PartsAndPlanes aviation API and BuyAutoParts.com), rolled out Level 2 Agent Readiness discovery headers, and introduced the Quantified Token Savings framework.
 * 2026-10-10: AgentBuyParts expanded from 8 to 15 sources, adding powersports and RV parts retailers and vehicle fitment data, including two MCP servers (FitsMyBoat and VehDB).
 * 2026-10-08: All seven indexes rechecked link by link. Listings now describe only what each company publishes, outdated sources were corrected or moved to "Not Yet Listed," and each index shows a last-checked date.
@@ -42,4 +43,4 @@ Planned indexes, not yet live: AgentBuyAI, AgentBuyCompute, AgentBuyBTC, AgentBu
 ## About AgentBuyNetwork
 * **Operator:** Sunkings LLC
 * **Contact:** agentbuynetwork@proton.me
-* **Last Updated:** 2026-10-27
+* **Last Updated:** 2026-11-19

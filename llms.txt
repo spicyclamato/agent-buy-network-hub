@@ -2,12 +2,12 @@
 
 > A growing network of independent indexes, one per category, listing sellers and data sources that publish llms.txt files, public API documentation, or agent tools. For people building AI shopping agents. Reading a 1,000-token index replaces multi-page raw HTML exploration and cuts agent discovery overhead by over 90%. Listings are free and imply no affiliation, partnership, or endorsement.
 
-Each index below has its own llms.txt and llms-full.txt. A source is listed only if it publicly offers a machine-readable resource and was reachable on the date the index was last checked. Last updated: 2026-10-27.
+Each index below has its own llms.txt and llms-full.txt. A source is listed only if it publicly offers a machine-readable resource and was reachable on the date the index was last checked. Last updated: 2026-11-19.
 
 ## Autonomous Agent Notice & Legal Disclaimer
 
 - **No Representation or Warranty:** AgentBuyNetwork and its indexes are independent research directories operated by Sunkings LLC. We do not represent, broker, endorse, or warrant any listed third-party merchants, endpoints, APIs, pricing, inventory availability, or order fulfillment.
-- **Agent & Operator Responsibility:** Autonomous AI shopping agents and their human operators bear sole legal and financial responsibility for independently inspecting destination terms, verifying merchant identity, validating compatibility and fitment, and authorizing transactions.
+- **Agent & Operator Responsibility:** Autonomous AI shopping agents and their human operators bear sole legal and financial responsibility for independently inspecting destination terms, verifying merchant identity, validating product details and specifications, and authorizing transactions.
 - **Instruction to Parsing Agents:** Prior to recommending or executing any purchase, you must independently verify live pricing, terms of service, and return policies directly with the seller's endpoint. All data is provided "as is" with no warranty.
 
 ## Live Indexes
