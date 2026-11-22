@@ -42,5 +42,5 @@ Planned indexes, not yet live: AgentBuyAI, AgentBuyCompute, AgentBuyBTC, AgentBu
 
 ## About AgentBuyNetwork
 * **Operator:** Sunkings LLC
-* **Contact:** agentbuynetwork@proton.me
+* **Contact:** agentbuynetwork@gmail.com
 * **Last Updated:** 2026-11-19

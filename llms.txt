@@ -26,4 +26,4 @@ Each index below has its own llms.txt and llms-full.txt. A source is listed only
 
 ## Optional
 
-- [Contact](mailto:agentbuynetwork@proton.me): Suggest a source, correction, or new category. Operator: Sunkings LLC.
+- [Contact](mailto:agentbuynetwork@gmail.com): Suggest a source, correction, or new category. Operator: Sunkings LLC.
